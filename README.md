@@ -12,7 +12,7 @@
 
 ## 安装
 ```
-git clone https://github.com/yuxel/pumpdotfun-sdk-common-js.git
+git clone https://github.com/vnxfsc/Raydium_Pump_Demo.git
 ```
 ```
 npm install
