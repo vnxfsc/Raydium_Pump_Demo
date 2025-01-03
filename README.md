@@ -80,6 +80,13 @@ npm run pump sell 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU 50
 3. 合理设置滑点以平衡交易成功率和价格影响
 4. 请妥善保管您的钱包私钥,不要泄露给他人
 
+ ## 技术支持 
+- 如遇问题请提交Issue
+- 欢迎提交Pull Request改进代码
+- 交流群：[Buff社区](https://t.me/chainbuff)
+- 交流群：[乌托邦社区](https://t.me/xiaojiucaiPC)
+
+
 ## 免责声明
 
 本项目仅供学习研究使用,作者不对因使用本软件造成的任何损失负责。在使用本软件进行交易前,请充分了解相关风险。
